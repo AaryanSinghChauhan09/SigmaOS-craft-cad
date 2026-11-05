@@ -1,0 +1,16 @@
+[component]
+name = "SigmaOS-craft-cad"
+tier = 5
+stability = "scaffold"
+language = "rust"
+description = "CAD integration for SigmaOS — parametric modelling, constraint solving, and STEP/DXF import/export"
+upstream = ["https://github.com/FreeCAD/FreeCAD"]
+
+[contract]
+provides = ["parametric-cad", "constraint-solver"]
+depends_on = []
+
+[maturity]
+status = "Scaffold"
+test_evidence = "Compiles"
+next_milestone = "Verification test suite"

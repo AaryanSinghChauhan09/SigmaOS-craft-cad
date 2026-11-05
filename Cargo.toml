@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_craft_cad"
+version = "0.1.0"
+edition = "2021"
+description = "CAD integration for SigmaOS — parametric modelling, constraint solving, and STEP/DXF import/export"
+
+[lib]
+name = "sigmaos_craft_cad"
+path = "src/lib.rs"
