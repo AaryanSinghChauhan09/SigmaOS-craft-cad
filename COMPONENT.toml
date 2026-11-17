@@ -3,7 +3,7 @@ name = "SigmaOS-craft-cad"
 tier = 5
 stability = "scaffold"
 language = "rust"
-description = "CAD integration for SigmaOS — parametric modelling, constraint solving, and STEP/DXF import/export"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = ["https://github.com/FreeCAD/FreeCAD"]
 
 [contract]
