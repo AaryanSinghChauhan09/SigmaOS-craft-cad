@@ -3,6 +3,9 @@
 //! Real implementation: dimensions, constraints, parts, assembly hierarchy,
 //! sketch entities, and validation. Replaces the 104-line CLI placeholder.
 
+/// CAD module.
+pub mod sigmacad;
+
 use std::collections::BTreeMap;
 use std::fmt;
 
