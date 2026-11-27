@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-craft-cad"
+version = "0.1.0"
+category = "craft"
+description = "Craft CAD drafting and engineering studio for SigmaOS"
